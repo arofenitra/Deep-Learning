@@ -1,0 +1,9 @@
+jupyter
+ipykernel
+numpy<2
+scipy
+matplotlib
+torch
+torchvision
+pandas
+scikit-learn
